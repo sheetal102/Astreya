@@ -1,0 +1,6 @@
+x1=int(input("Enter a value within 1-10="))
+y1=int(input("Enter a value within 1-10="))
+x2=int(input("Enter a value within 1-10="))
+y2=int(input("Enter a value within 1-10="))
+area= (x2 - x1)*(y2 - y1)
+print("the area of the rectangle is=", area)
